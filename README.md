@@ -4,7 +4,7 @@ Finds which state a given coordinate is located in. States and borders are incom
 
 ## Usage
 
-To start server `./state-server &`
+To start server `./state-server &` (Note: It may take a few moments for the server to come up)
 
 To query server `curl -d "longitude=-77.036133&latitude=40.513799" http://localhost:8080/`
 
